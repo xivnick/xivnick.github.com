@@ -1,2 +1,2 @@
-# xivnick.github.com
+# xivnick.github.io
 github pages
